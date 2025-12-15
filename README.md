@@ -1,7 +1,6 @@
 # 📧 Email Spam Detection Using NLP & Machine Learning via Streamlit
-A machine learning-based email spam detection system using NLP and Naive Bayes.
-This web app is built with Streamlit and predicts messages as spam or safe in real time.
 
+**Author:** Ricksm
 ## 🚀 Features
 - Detects spam or safe messages
 - Trained using TF-IDF and Naive Bayes
@@ -22,8 +21,7 @@ This web app is built with Streamlit and predicts messages as spam or safe in re
 
 ## 🔧 Installation
 ```sh
-git clone https://github.com/yourusername/SpamClassifer.git
-cd SpamClassifer
+git clone https://github.com/Ricksm/Rick-mail-spam-detection.git
 pip install -r requirements.txt
 
 
@@ -35,4 +33,5 @@ pip install -r requirements.txt
 - Joblib
 
 This project is open-source and free to use.
+
 
